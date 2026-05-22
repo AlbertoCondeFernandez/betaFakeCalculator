@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134362486106",
+    "project_id": "proyecto-2dam-alberto",
+    "storage_bucket": "proyecto-2dam-alberto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134362486106:android:f72a8d655afd85ce9f8f63",
+        "android_client_info": {
+          "package_name": "com.example.proyecto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDixA_Lklc4tRZvtMTBA9B37XC7zjJGZe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
